@@ -1,1 +1,1 @@
-I've worked a little bit with git for my CMPS3390 class by setting up a repository for it and pushing my code for assignments to github.
+I've worked a little bit with git for my CMPS3390 class by setting up a repository for it and pushing my code for assignments to github.Change from new_branch
